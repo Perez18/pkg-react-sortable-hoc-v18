@@ -1,0 +1,16 @@
+{
+  "name": "react-sortable-hoc-v18",
+  "version": "1.0.0",
+  "description": "This project demonstrates the use of Higher-Order Components (HOC) in React v18.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-move": "^4.0.0",
+    "invariant": "^2.2.4"
+  }
+}
